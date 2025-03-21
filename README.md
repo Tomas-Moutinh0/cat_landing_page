@@ -1,1 +1,2 @@
 # cat_landing_page
+A dummy landing page for cats enthusiasts. The main objective in this project was to use semantic HTML elements that clearly describe their purpose and improve accessibility, SEO, and code readability.
